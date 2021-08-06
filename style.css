@@ -1,0 +1,35 @@
+body {
+    font-size: 20px;
+}
+
+li {
+    list-style-type: none;
+    height: 15px;
+    width: 80vw;
+    left:0;
+    background-color: black;  
+    color: white;  
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+input {
+    height: 40px;
+    width: 81.5vw;
+}
+
+button {
+    height: 50px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+i {
+    color: white;
+    margin-left: 20px;
+}
